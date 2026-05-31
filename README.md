@@ -55,7 +55,7 @@ Triggers on: "rewrite my resume," "tighten this bullet," "make this ATS-friendly
 
 ## Pair With
 
-- **[resume-format](https://github.com/marcusnelson/resume-format-skill)** — renders the finished content into a polished `.docx` or branded PDF, with automatic page-break auditing.
+- **[resume-formatting](https://github.com/marcusnelson/resume-formatting-skill)** — renders the finished content into a polished `.docx` or branded PDF, with automatic page-break auditing.
 
 ## Pre-Send Checklist
 
